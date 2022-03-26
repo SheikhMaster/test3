@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf607b55e33B7CFDEd7ac393942A5Efa9464AED8C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf607b55e33b7cfded7ac393942a5efa9464aed8c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "SheikhPunks",
+  "SYMBOL": "SKH",
+  "MAX_SUPPLY": 7999,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sheikhpunks-1",
+  "SHOW_BACKGROUND": true
+}
